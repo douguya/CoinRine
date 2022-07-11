@@ -261,3 +261,94 @@ Received Import Request.
 Start importing Assets/Prehub/BCan (1).prefab using Guid(fd774a6aea2753b45ab8397ac16c64b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a27fbbdc80477e382343f380d87d61') in 0.010576 seconds
   Import took 0.013427 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 843.259517 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(66aec497519245547bb62e8efbd5f34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(66aec497519245547bb62e8efbd5f34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1ac234dd27f230e45196997c880061') in 0.005927 seconds
+  Import took 0.009279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007059 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(66aec497519245547bb62e8efbd5f34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(66aec497519245547bb62e8efbd5f34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1ac234dd27f230e45196997c880061') in 0.002480 seconds
+  Import took 0.005693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.741441 seconds.
+  path: Assets/Scenes/Stage
+  artifactKey: Guid(6eabc91dae53cac47996bc1912996519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage using Guid(6eabc91dae53cac47996bc1912996519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d1b6c4a8c3c7a20e0ba64d329aa7a8') in 0.006176 seconds
+  Import took 0.009316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.773372 seconds.
+  path: Assets/Scenes/Stage/Stage1.unity
+  artifactKey: Guid(5ce2d0baafa63a641a7c4f6e19bae63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage/Stage1.unity using Guid(5ce2d0baafa63a641a7c4f6e19bae63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455584e562818a12c4f17ba130ac2183') in 0.005353 seconds
+  Import took 0.008235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.377671 seconds.
+  path: Assets/Scenes/Stage/Stage2.unity
+  artifactKey: Guid(28c23c52e0395114fbe29d9d0cb793e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage/Stage2.unity using Guid(28c23c52e0395114fbe29d9d0cb793e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262cbb977e87f043ce95328d0164ad6a') in 0.005667 seconds
+  Import took 0.009002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.250170 seconds.
+  path: Assets/Scenes/Stage/Stage3.unity
+  artifactKey: Guid(9a3eb9a793bf30641acb91023d849dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage/Stage3.unity using Guid(9a3eb9a793bf30641acb91023d849dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71a30b467155684032d0a1ec82bc7e3') in 0.005921 seconds
+  Import took 0.008857 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.131174 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.339 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1844 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.4 MB.
+System memory in use after: 92.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2321.
+Total: 2.079600 ms (FindLiveObjects: 0.231800 ms CreateObjectMapping: 0.050300 ms MarkObjects: 1.773500 ms  DeleteObjects: 0.022400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000933 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1844 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.4 MB.
+System memory in use after: 92.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2325.
+Total: 2.665800 ms (FindLiveObjects: 0.376000 ms CreateObjectMapping: 0.065300 ms MarkObjects: 2.199200 ms  DeleteObjects: 0.023800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
